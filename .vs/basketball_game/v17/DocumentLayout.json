@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Games103\\basketball_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5419FC8F-09CF-ECB0-36F0-CA5E5BEF5677}|Assembly-CSharp.csproj|E:\\Games103\\basketball_game\\assets\\scripts\\netcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5419FC8F-09CF-ECB0-36F0-CA5E5BEF5677}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\netcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5419FC8F-09CF-ECB0-36F0-CA5E5BEF5677}|Assembly-CSharp.csproj|e:\\games103\\basketball_game\\assets\\scripts\\basketballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5419FC8F-09CF-ECB0-36F0-CA5E5BEF5677}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\basketballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5419FC8F-09CF-ECB0-36F0-CA5E5BEF5677}|Assembly-CSharp.csproj|E:\\Games103\\basketball_game\\assets\\scripts\\scoredisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5419FC8F-09CF-ECB0-36F0-CA5E5BEF5677}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoredisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5419FC8F-09CF-ECB0-36F0-CA5E5BEF5677}|Assembly-CSharp.csproj|E:\\Games103\\basketball_game\\assets\\scripts\\scoredetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5419FC8F-09CF-ECB0-36F0-CA5E5BEF5677}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoredetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5419FC8F-09CF-ECB0-36F0-CA5E5BEF5677}|Assembly-CSharp.csproj|E:\\Games103\\basketball_game\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5419FC8F-09CF-ECB0-36F0-CA5E5BEF5677}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 445,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetController.cs",
+              "DocumentMoniker": "E:\\Games103\\basketball_game\\Assets\\Scripts\\NetController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NetController.cs",
+              "ToolTip": "E:\\Games103\\basketball_game\\Assets\\Scripts\\NetController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NetController.cs",
+              "ViewState": "AgIAAIEAAAAAoJmZmZktwJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:05:53.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreDisplay.cs",
+              "DocumentMoniker": "E:\\Games103\\basketball_game\\Assets\\Scripts\\ScoreDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreDisplay.cs",
+              "ToolTip": "E:\\Games103\\basketball_game\\Assets\\Scripts\\ScoreDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreDisplay.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:32:43.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreDetector.cs",
+              "DocumentMoniker": "E:\\Games103\\basketball_game\\Assets\\Scripts\\ScoreDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreDetector.cs",
+              "ToolTip": "E:\\Games103\\basketball_game\\Assets\\Scripts\\ScoreDetector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:08:45.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketballController.cs",
+              "DocumentMoniker": "E:\\Games103\\basketball_game\\Assets\\Scripts\\BasketballController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BasketballController.cs",
+              "ToolTip": "E:\\Games103\\basketball_game\\Assets\\Scripts\\BasketballController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BasketballController.cs",
+              "ViewState": "AgIAAN4AAAAAmZmZmZkZwOQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:44:03.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "E:\\Games103\\basketball_game\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "E:\\Games103\\basketball_game\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:39:02.811Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
